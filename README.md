@@ -1,2 +1,2 @@
-# Fortran90-Snake
-Snake Written in the Fortran 90 programming language
+# Fortran Games
+Games Written in the Fortran programming language
