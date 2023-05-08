@@ -6,7 +6,7 @@ C     ORIGINAL BASIC VERSION WRITTEN BY CHARLES LUND. MODIFIED AND
 C     PUBLISHED BY DAVID H. AHL. CONVERTED TO FORTRAN BY PHILIPP ENGEL.
 C
 C     ******************************************************************
-      PROGRAM ROCK
+      PROGRAM RockPaperScissors
       INTEGER     I, ICOMP, ICOMPC, IPLAY, IPLAYC, ISTAT, NGAMES
       CHARACTER*8 NAMES(3)
       INTEGER     RULES(3)
